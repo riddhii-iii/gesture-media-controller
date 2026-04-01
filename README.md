@@ -1,9 +1,7 @@
 # Gesture Media Controller
-
-## Demo
-https://github.com/riddhii-iii/gesture-media-controller/blob/main/demo.mp4# Gesture Media Controller
-
 A real-time gesture-based system to control system volume, screen brightness, media playback, and screenshots using computer vision.
+## Demo
+https://github.com/riddhii-iii/gesture-media-controller/blob/main/demo.mp4
 
 ## Features
 - Volume control using thumb and index finger distance
