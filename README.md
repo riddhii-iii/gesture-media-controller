@@ -1,27 +1,38 @@
-# Gesture Media Controller 
+# Gesture Media Controller
 
-Control your system using hand gestures in real-time.
+A real-time gesture-based system to control system volume, screen brightness, media playback, and screenshots using computer vision.
 
 ## Features
-- Volume control (thumb + index)
-- Brightness control (thumb + pinky)
-- Play/Pause gesture
-- Screenshot capture gesture
-- Smooth transitions and gesture hold detection
+- Volume control using thumb and index finger distance
+- Brightness control using thumb and pinky distance
+- Play/Pause control using gesture recognition
+- Screenshot capture using open palm gesture
+- Gesture hold detection for stability
+- Smooth transitions to reduce jitter
+
+## Demo
+[Watch Demo](./demo.mp4)
+
+## Screenshots
+
+![Volume](./screenshots/volume.png)
+
+![Brightness](./screenshots/brightness.png)
+
+![Play Pause](./screenshots/play%20or%20pause.png)
+
+![Screenshot](./screenshots/screenshot.png)
 
 ## Tech Stack
 - OpenCV
 - MediaPipe
+- NumPy
 - Pycaw
 - PyAutoGUI
 - screen-brightness-control
 
-## How it works
-Hand landmarks are detected using MediaPipe.  
-Different finger combinations trigger different system actions.
-
 ## Setup
 
-bash
+```bash
 pip install -r requirements.txt
 python main.py
