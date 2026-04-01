@@ -35,3 +35,5 @@ https://github.com/riddhii-iii/gesture-media-controller/blob/main/demo.mp4
 ```bash
 pip install -r requirements.txt
 python main.py
+
+Built as a computer vision project to explore real-time human-computer interaction.
