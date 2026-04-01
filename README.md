@@ -17,14 +17,13 @@ A real-time gesture-based system to control system volume, screen brightness, me
 
 ## Screenshots
 
-![Volume](./screenshots/volume.png)
+![Volume](https://raw.githubusercontent.com/riddhii-iii/gesture-media-controller/main/volume.png)
 
-![Brightness](./screenshots/brightness.png)
+![Brightness](https://raw.githubusercontent.com/riddhii-iii/gesture-media-controller/main/brightness.png)
 
-![Play Pause](./screenshots/play%20or%20pause.png)
+![Play Pause](https://raw.githubusercontent.com/riddhii-iii/gesture-media-controller/main/play%20or%20pause.png)
 
-![Screenshot](./screenshots/screenshot.png)
-
+![Screenshot](https://raw.githubusercontent.com/riddhii-iii/gesture-media-controller/main/screenshot.png)
 ## Tech Stack
 - OpenCV
 - MediaPipe
