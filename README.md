@@ -1,5 +1,7 @@
 # Gesture Media Controller
 A real-time gesture-based system to control system volume, screen brightness, media playback, and screenshots using computer vision.
+Built as a computer vision project to explore real-time human-computer interaction.
+
 ## Demo
 https://github.com/riddhii-iii/gesture-media-controller/blob/main/demo.mp4
 
@@ -36,4 +38,3 @@ https://github.com/riddhii-iii/gesture-media-controller/blob/main/demo.mp4
 pip install -r requirements.txt
 python main.py
 
-Built as a computer vision project to explore real-time human-computer interaction.
